@@ -1,0 +1,34 @@
+{
+  "cards": [
+    {
+      "name": "Premium Travel Card",
+      "benefits": "Airport lounge access, travel insurance, 3X miles on travel spends",
+      "interestRate": "15%",
+      "annualFee": "5000"
+    },
+    {
+      "name": "Cashback Card",
+      "benefits": "5% cashback on groceries, 2% on fuel and dining",
+      "interestRate": "18%",
+      "annualFee": "1000"
+    },
+    {
+      "name": "Rewards Card",
+      "benefits": "Reward points on all spends, redeemable against shopping and bill payments",
+      "interestRate": "20%",
+      "annualFee": "1500"
+    },
+    {
+      "name": "Student Starter Card",
+      "benefits": "No annual fee, low credit limit, rewards on books and supplies",
+      "interestRate": "22%",
+      "annualFee": "0"
+    },
+    {
+      "name": "Business Card",
+      "benefits": "Higher credit limit, fuel surcharge waiver, expense management features",
+      "interestRate": "17%",
+      "annualFee": "3500"
+    }
+  ]
+}
